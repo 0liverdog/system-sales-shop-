@@ -1,0 +1,15 @@
+# Compilated
+bin/
+*.class
+
+# Eclipse custom settings
+.metadata/
+.settings/
+.class
+
+# Logs
+*.log
+
+# File system
+.DS_Store
+Thumbs.db
